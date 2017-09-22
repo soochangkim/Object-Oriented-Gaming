@@ -1,0 +1,63 @@
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzle.resources
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+G:\OOP C#\Assignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzle.resources
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+C:\Users\Soo\Downloads\download (1)\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzle.resources
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+G:\OOP C#\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+C:\Users\Soo\Downloads\download\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzleForm.resources
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzleForm.resources
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+G:\OOP C#\SKimAssignment03_last\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzleForm.resources
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+C:\Users\Soo\Downloads\SKimAssignment03\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe.config
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.exe
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\bin\Debug\SKimAssignment03.pdb
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csprojResolveAssemblyReference.cache
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.NPuzzleForm.resources
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.Properties.Resources.resources
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.csproj.GenerateResource.Cache
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.exe
+G:\Temp\OOP C#\OOP C#\N-PuzzelGame\SKimAssignment03\SKimAssignment03\obj\Debug\SKimAssignment03.pdb

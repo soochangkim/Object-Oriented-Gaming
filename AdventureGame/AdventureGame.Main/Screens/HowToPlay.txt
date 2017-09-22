@@ -1,0 +1,9 @@
+HOW TO PLAY
+
+SooChang And Jodi's Adventure
+
+Character action movements keyboard:
+Arrow key UP to jump
+Arrow key RIGHT to move right/forward
+Arrow key LEFT to move left/backwards
+SPACE BAR to shoot

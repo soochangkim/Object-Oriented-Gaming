@@ -1,0 +1,9 @@
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\bin\Debug\SKimAssignment02.exe.config
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\bin\Debug\SKimAssignment02.exe
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\bin\Debug\SKimAssignment02.pdb
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.csprojResolveAssemblyReference.cache
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.SKimTicTacToe.resources
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.Properties.Resources.resources
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.csproj.GenerateResource.Cache
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.exe
+G:\OOP C#\Assignment02\SKimAssignment02\SKimAssignment02\obj\Debug\SKimAssignment02.pdb

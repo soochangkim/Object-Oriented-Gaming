@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdventureGame.Main.AdventureGame" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQKFEAAAAAAAwAAAAAAAAAAAIAEAAgAAQAAAAAAAEQ=</HashCode>
+      <FileName>AdventureGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Background" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAACAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Button" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYAAAgACAAAGgoIAhAAAAACAAAAIACIAAAAAAAIAAQ=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Camera" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAAIAAFACQABQAAAAMAAAACACAAAAAYAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.MenuComponent" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQiAAAAAAgAAwgABAAAABCAAQCAAIAAAJAAgAAAAAQ=</HashCode>
+      <FileName>MenuComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Program" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Utility" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQQAIAAAAAAAAIAAABAAAAAiAAAIAIBA=</HashCode>
+      <FileName>Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Characters.Character" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQABEgCECAAQygCEJgAUhACABAJAAARBBABgAQxAAQ=</HashCode>
+      <FileName>Characters\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AdventureGame.Main.Characters.Enemy" Collapsed="true">
+    <Position X="1.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEgAAAgAAAAAABAAAABACAQAUCAAAAAAAAAE=</HashCode>
+      <FileName>Characters\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Characters.Player" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAFAUAAABBCAAIQggpkAAIAQAQAAABAACAgxAAA=</HashCode>
+      <FileName>Characters\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Characters.ScrollingEnemy" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAIAAAAAAAABAFAIAAAAIAA=</HashCode>
+      <FileName>Characters\ScrollingEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Characters.Soldier" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgQQAAAAADAAAwAAAAEAIIBAAAgCAAAAABAAAAAAEAA=</HashCode>
+      <FileName>Characters\Soldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.Collision" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>GameManagers\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.CollisionManager" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAQAAAAAAAIAAGCCCAAAAAACAgAAAAEAAAAA=</HashCode>
+      <FileName>GameManagers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.MoveCheckHelper" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>GameManagers\MoveCheckHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.PositionManager" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAACAFAA1AAAAEAAQAAAGAAAAAAAAECgABAAAA=</HashCode>
+      <FileName>GameManagers\PositionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.Sound" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAABAAAAEoAAAAAAAAAA=</HashCode>
+      <FileName>GameManagers\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.SoundManager" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgABAAAEAAAAAAAAAAAEAAAIoAIAAAAAAAQ=</HashCode>
+      <FileName>GameManagers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.GameManagers.Bullet" Collapsed="true">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAgAQAEAAIAgAQAAAAAIAAAAAAAAIRBAACAAAAQCA=</HashCode>
+      <FileName>Items\Bullet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AdventureGame.Main.Items.Item" Collapsed="true">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBQAAAgBEQAEAwAAADQBABAAAAABAAAUBBACgAAIAAA=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MonogameLevel.LevelManager" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonogameLevel.Tile" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgAAEAAAIAAAAAAAAAgAAAAAAAAQAAA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonogameLevel.TileManager" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonogameLevel.Values" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAARBAEAACCDAAAAAAAQAAgAAIEQAAAUA=</HashCode>
+      <FileName>Values.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.AboutScreen" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\AboutScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.ActionScreen" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EkRggAIEAwAACwIAQgEtCTABABGBIAIAgIAgYFAgACA=</HashCode>
+      <FileName>Screens\ActionScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.GameScreen" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAI4AAAAAAABAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Screens\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.HelpScreen" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\HelpScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.HowToPlayScreen" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\HowToPlayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.StartScreen" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAwAAAAAAAAAAAAAIAAAAAIAgASAAAAA=</HashCode>
+      <FileName>Screens\StartScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureGame.Main.Screens.StatusBar" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAwAAABEACAJAAAABAABQEAAAgAAAAAA=</HashCode>
+      <FileName>Screens\StatusBar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="AdventureGame.Main.Interfaces.IDrawableComponent" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAwAAABAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Interfaces\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdventureGame.Main.Interfaces.IGetBound" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdventureGame.Main.Interfaces.IMovable" Collapsed="true">
+    <Position X="17.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdventureGame.Main.Interfaces.ICollisionHandler" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AdventureGame.Main.Characters.MoveDirection" Collapsed="true">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAIAAAAAAAAAAAAAAAAAAAACAGCAAGAAAI=</HashCode>
+      <FileName>Characters\Character.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.Characters.CharacterType" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Characters\Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.Characters.DirectionType" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAQAAAAADAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\Soldier.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.GameManagers.CollisionType" Collapsed="true">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>GameManagers\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.GameManagers.PositionCheck" Collapsed="true">
+    <Position X="13.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>GameManagers\PositionManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.GameManagers.SoundTypes" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAgAAAAAAAEAIAIIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameManagers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.GameManagers.BulletOwnerType" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Items\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.Items.ItemType" Collapsed="true">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAEAAAABAAA=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MonogameLevel.TileTypes" Collapsed="true">
+    <Position X="12" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.Screens.PuaseMenuState" Collapsed="true">
+    <Position X="15.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Screens\ActionScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdventureGame.Main.Screens.ScreenType" Collapsed="true">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAhAAAECAIAAEBAAAAAAAAAAAAAAAAAAAAABEAAAQ=</HashCode>
+      <FileName>Screens\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/OOP C#/Assignment04/pong/pong/Content/sounds/ballBound.wav</SourceFile>
+  <SourceTime>2016-11-10T14:15:00.3817284-05:00</SourceTime>
+  <DestFile>G:/OOP C#/Assignment04/pong/pong/Content/bin/Windows/sounds/ballBound.xnb</DestFile>
+  <DestTime>2016-11-10T14:17:43.8572721-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
