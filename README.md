@@ -5,17 +5,47 @@
 <p>This repository contain personal gaming project. Some are written by C, and the other is C#</p>
 
 <ul>
-  <li ><a href="#npuzzle">N-Puzzle Game (C#)</a></li>
-  <li href="#tictactoe">TicTacToe (C#)</li>
-  <li>Pong Game(C# with monogame)</li>
-  <li>My fighter</li>
+  <li><a href="#npuzzle">N-Puzzle Game (C#)</a></li>
+  <li><a href="#tictactoe">TicTacToe (C#)</a></li>
+  <li><a href="#ponggame">Pong Game(C# with monogame)</a></li>
+  <li><a href="#myfighter">My fighter</a></li>
 </ul>
 
 
-<div id="npuzzle"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div id="npuzzle">
+  <h3>Simple N-Puzzle game(C#).</h3>
+  <h4>Main feature</h4>
+  <ol>
+    <li>Always provide solvable solution</li>
+    <li>Tile move animation</li>
+    <li>Save/Load game</li>
+  </ol>
 </div>
+
 <div id="tictactoe">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
-<div></div>
-<div></div>
-  
+  <h3>Tic Tac Toe(C#)</h3>
+  <h4>Main feature</h4>
+  <ol>
+    <li>2 player can play</li>
+    <li>Throw draw when it is impossible someone win</li>
+  </ol>
+</div>
+
+<div id="ponggame">
+  <h3>Pong Game(C#)</h3>
+  <h4>Main Purpose of this project</h4>
+  <ol>
+    <li>OOP design with gaming</li>
+    <li>Time frame handling</li>
+  </ol>
+</div>
+
+<div id="myfighter">
+  <h3>My Fighter(C)</h3>
+  <h4>Main Purpose of this project</h4>
+  <ol>
+    <li>How to use pointer</li>
+    <li>How to use structure</li>
+    <li>It gave basic understanding of how to handle event in c</li>
+  </ol>
+</div>  
