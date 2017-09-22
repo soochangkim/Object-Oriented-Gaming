@@ -5,7 +5,7 @@
 <p>This repository contain personal gaming project. Some are written by C, and the other is C#</p>
 
 <ul>
-  <li href="#npuzzle">N-Puzzle Game (C#)</li>
+  <li ><a href="#npuzzle">N-Puzzle Game (C#)</a></li>
   <li href="#tictactoe">TicTacToe (C#)</li>
   <li>Pong Game(C# with monogame)</li>
   <li>My fighter</li>
