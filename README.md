@@ -52,7 +52,7 @@
 </div>  
 
 <div id="adventure">
-  <h3><a href="https://github.com/soochangkim/Object-Oriented-Gaming/tree/master/AdventureGame">Simple N-Puzzle game(C#)</a></h3>
+  <h3><a href="https://github.com/soochangkim/Object-Oriented-Gaming/tree/master/AdventureGame">Adventrue Game(C#)</a></h3>
   <h4>Main feature</h4>
   <ol>
     <li>Simple Acade Game</li>
