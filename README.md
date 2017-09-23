@@ -1,7 +1,5 @@
 # Object-Oriented-Gaming
 
-<h1>Game project </h1>
-
 <p>This repository contain personal gaming project. Some are written by C, and the other is C#</p>
 
 <ul>
